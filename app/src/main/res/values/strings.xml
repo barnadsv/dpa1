@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DPA_1_App</string>
+    <string name="pick_date">Selecione a data</string>
+    <string name="nomeCompletoHint">Nome Completo</string>
+    <string name="dataNascimentoHint">Data de Nascimento</string>
+    <string name="sexoHint">Sexo</string>
+    <string-array name="sexo_array">
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+    <string name="profissaoHint">Profissão</string>
+    <string name="estadoCivilHint">Estado Civil</string>
+    <string-array name="estado_civil_array">
+        <item>Solteiro</item>
+        <item>Casado</item>
+        <item>Divorciado</item>
+        <item>Viúvo</item>
+        <item>Separado</item>
+    </string-array>
+    <string name="senhaHint">Senha</string>
+    <string name="confirmaSenhaHint">Confirmar Senha</string>
+    <string name="nomeCompleto">Nome Completo: %1$s</string>
+    <string name="dataNascimento">Data de Nascimento: %1$s</string>
+    <string name="sexo">Sexo: %1$s</string>
+    <string name="profissao">Profissão: %1$s</string>
+    <string name="estadoCivil">Estado Civil: %1$s</string>
+</resources>
